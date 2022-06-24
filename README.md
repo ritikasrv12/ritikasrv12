@@ -1,10 +1,15 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 
 # **Hlo! I am Ritika Srivastava.** 
+
 **ABOUT ME :**
+
 > I am a **Developer** by nature and an **Engineer**  by passion.
+
 > An engineering student with high expertise in **Websit Development.**
+
 > The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
+
 > I am presently pursuing **Btech** in **ECE** From **Vellore Institute of Technology, Bhopal.**
 
 
