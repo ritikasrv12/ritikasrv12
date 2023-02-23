@@ -22,7 +22,7 @@
  
 
 ## Positions :
-- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
+- ECE Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 
 
 ## My skills :
