@@ -23,6 +23,7 @@
 
 ## Positions :
 - ECE Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
+- Web Developer at **@Antrix Club**
 
 
 ## My skills :
