@@ -25,7 +25,7 @@
 ## Coding Account :
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RITS321/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ritikasrivastav8?hr_r=1)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-32CD32?style=flat-square&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ritikasriva04t0/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-32CD32?style=flat-square&logo=GeeksforGeeks&logoColor=black)](https://www.geeksforgeeks.org/user/ritikasriva04t0/)
 
 
 
