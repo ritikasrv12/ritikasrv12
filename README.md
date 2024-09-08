@@ -1,7 +1,7 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 <img align="center" src="glow.png">
 
-# **Hlo! I am Ritika Srivastava.** 
+# **Hello! I am Ritika Srivastava.** 
 
 **ABOUT ME :**
 
@@ -32,7 +32,8 @@
 ## Positions :
 - Electronics and Communication Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
 - Web Developer at **@Microsoft Club**
-- Tech Blogger at **@Medium**
+- Open Source Contributor at @GSSoC'23 and @HacktoberFest'23
+
 
 
 ## My skills :
@@ -48,7 +49,8 @@
 ## **"You Can Ask To Me About!**
 - 🔴Front-end Development Using **React.js**
 - 🟤Solving Data structures & algorithms question in **C++**
-- 🟡Knowledge Of Core Subjects like **OOPS**, **Engineering Design**
+- 🟡Knowledge Of Core Subjects like **OOPS**, **Engineering Design** , **DBMS**, **CN**
+- 🟢Robust Full-Stack System Design Implementation
 
  
 ## **"Some More About Me!**
@@ -56,6 +58,7 @@
 - 🟢I’m currently learning **DSA and Backend Development**
 - 🟣Ask me about DSA and Web Development.
 - 🔴I’m looking to collaborate on exciting Open-Source Projects and Hackathons
+- 🟡I Am Aspiring For Cloud-Developer
 - 🟤Fun fact: What make me more happy?? **To help others and grow-up together👻**
  
  
