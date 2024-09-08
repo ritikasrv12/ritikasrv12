@@ -25,8 +25,7 @@
 ## Coding Account :
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/RITS321/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ritikasrivastav8?hr_r=1)
-[![GFG]((https://img.shields.io/badge/-geekforgeek-2EC866?style=flat-square&logo=GeekForGeek&logoColor=black)](https://www.geeksforgeeks.org/user/ritikasriva04t0/)
- 
+
 
 ## Positions :
 - Electronics and Communication Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
