@@ -11,7 +11,7 @@
 
 > The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
 
-> I am presently pursuing **Btech** in **ECE** From **Vellore Institute of Technology, Bhopal.**
+> I am presently pursuing **Btech** in Electronics And Communication Engineering(**ECE**) From **Vellore Institute of Technology, Bhopal.**
 
 
 ##  Connect With Me :
