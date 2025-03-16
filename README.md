@@ -51,12 +51,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=radical&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=radical&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=tokyonight" alt="Streak Stats">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ritikasrv12" alt="Contribution Stats">
-</p>
+<h2 align="center">Productivity Stats 📊💻</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=merko&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=merko&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=merko" alt="Streak Stats">
+</div>
+
 
 ---
 
