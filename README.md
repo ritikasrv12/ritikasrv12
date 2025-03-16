@@ -1,6 +1,6 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 <p align="center">
-  <img src="glow.png" alt="Glow" width="700">
+  <img src="glow.png" alt="Glow" width="600">
 </p>
 
 # **Hello! I am Ritika Srivastava.**
@@ -40,6 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=radical&show_icons=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=radical&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=tokyonight" alt="Streak Stats">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ritikasrv12" alt="Contribution Stats">
 </p>
 
 ---
@@ -49,6 +50,13 @@
 - [Meet Move Web Application](https://github.com/ritikasrv12/Meet-Move)
 - [Cardio Care Predictor](https://github.com/ritikasrv12/Cardio-Care-Predictor)
 - [Portfolio Website](https://github.com/ritikasrv12/Portfolio)
+
+### 📌 Pinned Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Meet-Move&theme=radical" alt="Meet Move Repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Cardio-Care-Predictor&theme=radical" alt="Cardio Care Repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Portfolio&theme=radical" alt="Portfolio Repo">
+</p>
 
 ---
 
