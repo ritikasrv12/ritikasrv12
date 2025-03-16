@@ -1,4 +1,4 @@
-<h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
+<h3 align="center"> <p>Design. Develop. Deploy. Welcome to my digital space! 🚀</p> </h3>
 <p align="center">
   <img src="glow.png" alt="Glow" width="600">
 </p>
@@ -40,12 +40,6 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
-   
- <tr>
-   <td><img src="https://activity-graph.herokuapp.com/graph?username=ritikasrv12&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
-  <tr><td>😀</td></tr>
 </table>
 
 ---
