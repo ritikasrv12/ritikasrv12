@@ -34,6 +34,22 @@
 
 ---
 
+<h2 align="center">Productivity Stats📈 !! 😊</h2>
+ 
+ <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+  </tr> 
+   
+ <tr>
+   <td><img src="https://activity-graph.herokuapp.com/graph?username=ritikasrv12&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+  <tr><td>😀</td></tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -50,13 +66,6 @@
 - [Meet Move Web Application](https://github.com/ritikasrv12/Meet-Move)
 - [Cardio Care Predictor](https://github.com/ritikasrv12/Cardio-Care-Predictor)
 - [Portfolio Website](https://github.com/ritikasrv12/Portfolio)
-
-### 📌 Pinned Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Meet-Move&theme=radical" alt="Meet Move Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Cardio-Care-Predictor&theme=radical" alt="Cardio Care Repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikasrv12&repo=Portfolio&theme=radical" alt="Portfolio Repo">
-</p>
 
 ---
 
