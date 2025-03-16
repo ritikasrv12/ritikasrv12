@@ -38,13 +38,13 @@
 <h2 align="center">📊 Productivity Stats 💻</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=merko" width="100%" alt="GitHub Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=dracula" width="100%" alt="GitHub Profile Summary">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=merko&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=merko&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="195px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=merko" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=tokyonight&show_icons=true&title_color=D8BFD8&text_color=E6E6FA&icon_color=9370DB&bg_color=282A36" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=tokyonight&layout=compact&title_color=D8BFD8&text_color=E6E6FA&icon_color=9370DB&bg_color=282A36&hide=Jupyter%20Notebook" alt="Top Languages" height="195px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=tokyonight&ring_color=9370DB&fire_color=D8BFD8&currStreakLabel_color=E6E6FA&background=282A36" alt="Streak Stats">
 </div>
 
 
