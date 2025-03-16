@@ -38,14 +38,15 @@
 <h2 align="center">📊 Productivity Stats 💻</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=github_dark" width="100%" alt="GitHub Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=merko" width="100%" alt="GitHub Profile Summary">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=github_dark&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=github_dark&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="195px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=github_dark" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikasrv12&theme=merko&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikasrv12&theme=merko&layout=compact&hide=Jupyter%20Notebook" alt="Top Languages" height="195px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasrv12&theme=merko" alt="Streak Stats">
 </div>
+
 
 ---
 
