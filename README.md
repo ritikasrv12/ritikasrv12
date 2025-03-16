@@ -1,6 +1,6 @@
 <h3 align="center"> <p>Welcome! To My Profile, Visitors.😄</p> </h3>
 <p align="center">
-  <img src="glow.png" alt="Glow" width="600">
+  <img src="glow.png" alt="Glow" width="1000">
 </p>
 
 # **Hello! I am Ritika Srivastava.**
