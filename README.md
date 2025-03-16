@@ -34,17 +34,18 @@
 
 ---
 
-<h2 align="center">Productivity Stats📈 !! 😊</h2>
+<h2 align="center">Productivity Stats 📈 !! 😊</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=monokai" width="100%" height="auto" alt="1">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikasrv12&theme=github_dark" width="100%" height="auto" alt="GitHub Profile Summary">
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ---
