@@ -10,11 +10,11 @@
 
 🚀 **Developer by nature, Engineer by passion.**  
 
-💻 Engineering student specializing in **Full-Stack Development**, passionate about coding.  
+💻 Engineering student specializing in **Frontend Development**, passionate about coding.  
 
-🌱 Constantly learning and building projects in **Web Development & Cloud Computing**.  
+🌱 Constantly learning and building projects in **Frontend**.  
 
-🎯 Actively working on **React.js, Node.js, and Backend Development**.  
+🎯 Actively working on **React.js and Node.j**.  
 
 🎖 **Open Source Contributor | Hackathon Enthusiast | Team Player**  
 
@@ -28,10 +28,7 @@
 🔗 [Live Demo](https://meet-move-jl7t.onrender.com/landing)  
 
 ❤️ **Cardio Care Predictor** – Predicts coronary heart disease risk using ML & Flask API.  
-🔗 [Live Demo](https://cardio-care-predictor.vercel.app/)  
-
-🌐 **Portfolio Website** – Showcasing my work, skills, and achievements.  
-🔗 [Live Demo](https://ritikasrivastava-portfolio.vercel.app/)  
+🔗 [Live Demo](https://cardio-care-predictor.vercel.app/) 
 
 ---
 
