@@ -51,7 +51,6 @@
 
 - [Meet Move Web Application](https://github.com/ritikasrv12/Meet-Move)  
 - [Cardio Care Predictor](https://github.com/ritikasrv12/Cardio-Care-Predictor)  
-- [Portfolio Website](https://github.com/ritikasrv12/Portfolio)  
 
 ---
 
